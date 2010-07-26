@@ -1,0 +1,5 @@
+; $Id: multipass.info,v 1.0 2010/07/17$
+name = Multipass
+description = Generates a Tender Multipass Single Sign On Link
+package = Support
+core = 6.x
